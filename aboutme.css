@@ -145,7 +145,7 @@ img{
         transform: scaleX(-1);
         transform: scaleY(-1);
     }
-    /* .card{
-        width: 90%;
-    } */
+    .linkedTextSection {
+        padding: 0%;
+    }
 }
